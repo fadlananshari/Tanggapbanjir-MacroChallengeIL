@@ -2,7 +2,7 @@ import React from 'react';
 import Love from '../assets/love-icon.png';
 import Komunitas_img from '../assets/komunitas-img.png';
 import Map from '../assets/location.png';
-import User from '../assets/User.png';
+import User from '../assets/user.png';
 import Calender from '../assets/calendar.png';
 import Social from '../assets/social.png';
 import Telephone from '../assets/telephone-call.png';
