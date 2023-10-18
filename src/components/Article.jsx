@@ -21,7 +21,7 @@ function Article() {
           <div className="col-12">
             <div className="bg-white rounded my-4">
               <div className="d-md-flex">
-                <img src={Article_img} alt="" className="rounded-start col-12 col-md-5" />
+                <img src={Article_img} alt="" className="rounded-start col-12 col-md-4" />
                 <div className="width-100-percent m-2 p-2">
                   <div className="">
                     <div className="mb-5">
@@ -30,7 +30,7 @@ function Article() {
                       <small className="text-secondary">Jakarta, 25 September 2023</small>
                     </div>
 
-                    <a href="#" className="d-flex gap-2 text-decoration-none text-black width-max-content">
+                    <a href="/artikel/Pengertian-dan-Persiapan-Menghadapi-Banjir" className="d-flex gap-2 text-decoration-none text-black width-max-content">
                       Baca Selengkapnya
                       <img src={Arrow_icon} alt="" className="width-max-content" />
                     </a>
@@ -53,7 +53,7 @@ function Article() {
 
             <div className="bg-white rounded">
               <div className="d-md-flex">
-                <img src={Article_img} alt="" className="rounded-start col-12 col-md-5" />
+                <img src={Article_img} alt="" className="rounded-start col-12 col-md-4" />
                 <div className="width-100-percent m-2 p-2">
                   <div className="">
                     <div className="mb-5">
@@ -62,7 +62,7 @@ function Article() {
                       <small className="text-secondary">Jakarta, 25 September 2023</small>
                     </div>
 
-                    <a href="#" className="d-flex gap-2 text-decoration-none text-black width-max-content">
+                    <a href="/artikel/Pengertian-dan-Persiapan-Menghadapi-Banjir" className="d-flex gap-2 text-decoration-none text-black width-max-content">
                       Baca Selengkapnya
                       <img src={Arrow_icon} alt="" className="width-max-content" />
                     </a>
@@ -83,7 +83,7 @@ function Article() {
               </div>
             </div>
             <div className="me-auto text-end mt-5">
-              <a href="#" className="btn btn-white">
+              <a href="/artikel" className="btn btn-white">
                 Artikel lainnya &#10140;
               </a>
             </div>

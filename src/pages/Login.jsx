@@ -41,14 +41,14 @@ function Login() {
             </form>
             <div class="mt-5">
               <a href="#" class="text-decoration-none font-green fs-11">
-                www.namawibesite.com
+                www.tanggapbanjir.com
               </a>
             </div>
           </div>
           <div class="d-none d-md-block col-6 my-3 me-3 rounded-end-4 green pt-4">
             <div className="container container-login green row justify-content-center">
               <div className="row justify-content-center">
-                <h2 class="width-max-content align-content-center text-white">NAMA WEBSITE</h2>
+                <h2 class="width-max-content align-content-center text-white">Tanggapbanjir+</h2>
                 <p class="width-max-content text-white text-center">“Membantu mengatasi bencana banjir dengan mudah, cepat dan tanggap!”</p>
               </div>
               <img src={Login_img} alt="" class="login-img" />

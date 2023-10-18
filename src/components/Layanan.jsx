@@ -17,7 +17,7 @@ function Layanan() {
             </div>
           </div>
           <div class="container px-4 py-1" id="featured-3">
-            <div class="row g-4 py-5 row-cols-1 row-cols-lg-3 justify-content-center">
+            <div class="row g-4 mb-5 row-cols-1 row-cols-lg-3 justify-content-center">
               <a href="/relawan" id='menu-layanan' class="feature col text-center bg-white py-5 border-cream text-decoration-none text-dark">
                 <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-cream rounded-circle p-2 mb-3 ">
                   <img src={Volunteer_icon} alt="" height="40px" />

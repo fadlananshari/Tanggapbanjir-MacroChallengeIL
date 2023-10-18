@@ -8,9 +8,11 @@ function Quote() {
       <div className="container pb-5">
         <div className="row d-flex pt-5">
           <div className="col-md-7">
-            <h2 className='mb-4'>Kita adalah <span className='fw-bolder'>mata dan telinga bagi komunitas kita.</span> Jika Anda melihat bahaya banjir atau situasi darurat lainnya, laporkan segera dan bantu mencegah kerugian yang lebih besar.</h2>
+            <h2 className="mb-4">
+              Kita adalah <span className="fw-bolder">mata dan telinga bagi komunitas kita.</span> Jika Anda melihat bahaya banjir atau situasi darurat lainnya, laporkan segera dan bantu mencegah kerugian yang lebih besar.
+            </h2>
             <div className="d-flex">
-              <a href="" className="btn btn-white btn-lg fw-bold">
+              <a href="/lapor-banjir" className="btn btn-white btn-lg fw-bold">
                 Laporkan Banjir
               </a>
               <img src={Navigate} alt="" height="50px" />

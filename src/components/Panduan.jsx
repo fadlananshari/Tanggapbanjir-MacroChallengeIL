@@ -100,7 +100,7 @@ function Panduan() {
           </div>
         </div>
 
-        <a href="#" class="btn btn-white btn-hover-green py-2 px-4">
+        <a href="/panduan" class="btn btn-white btn-hover-green py-2 px-4">
           Video Lainnya &#10140;
         </a>
       </div>

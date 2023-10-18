@@ -20,14 +20,14 @@ function Relawan() {
               <p>Satu Individu, Satu Perubahan: Jadi Relawan Banjir!</p>
             </div>
             <div className="d-flex row row-cols-4 pb-4 justify-content-center">
-              <div className="text-center col">
+              <a href='/relawan/profile-relawan' className="text-center col text-decoration-none text-black">
                 <img src={Relawan_img} alt="" width="200px" />
                 <div className="width-max-content mx-auto">
                   <h4 className="fw-bold border-bottom border-3 border-black width-max-content text-center">Ridwan Pratama</h4>
                   <p className="m-0">Mahasiswa</p>
                   <p>22</p>
                 </div>
-              </div>
+              </a>
               <div className="text-center col">
                 <img src={Relawan_img} alt="" width="200px" />
                 <div className="width-max-content mx-auto">
@@ -99,7 +99,7 @@ function Relawan() {
               <p>Komunitas Banjir: Bersatu Demi Keselamatan Bersama.</p>
             </div>
             <div className="d-flex row row-cols-4 gap-4 justify-content-center">
-              <div className="col bg-cream p-0 rounded">
+              <a href='/relawan/profile-komunitas' className="col bg-cream p-0 rounded text-decoration-none text-black">
                 <img src={Komunitas_img} alt="" width="280px" className="rounded" />
                 <div className="p-2">
                   <h5 className="fw-bold">Yayasan Rumah Solusi Beta Indonesia - NTT</h5>
@@ -119,7 +119,7 @@ function Relawan() {
                     </small>
                   </div>
                 </div>
-              </div>
+              </a>
               <div className="col bg-cream p-0 rounded">
                 <img src={Komunitas_img} alt="" width="280px" className="rounded" />
                 <div className="p-2">

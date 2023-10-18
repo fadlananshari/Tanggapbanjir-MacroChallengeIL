@@ -20,13 +20,13 @@ function Donation() {
           <div className="col-12 col-md-8 gap-3">
             <p className="">Satu klik bisa mengubah hidup seseorang. Salurkan bantuan Anda melalui transfer bank atau saldo digital hari ini melalui:</p>
             <div className="d-flex row row-cols-4 justify-content-center mb-5">
-              <img src={Bca} alt="" className="col" />
-              <img src={Bni} alt="" className="col" />
-              <img src={Bri} alt="" className="col" />
-              <img src={Mandiri} alt="" className="col" />
-              <img src={Gopay} alt="" className="col mt-4" />
-              <img src={Shopeepay} alt="" className="col mt-4" />
-              <img src={Dana} alt="" className="col mt-4" />
+              <a href="/donasi" className="col"><img src={Bca} alt="" className='width-100-percent'/></a>
+              <a href="" className="col "><img src={Bni} alt=""  className='width-100-percent'/></a>
+              <a href="" className="col "><img src={Bri} alt=""  className='width-100-percent'/></a>
+              <a href="" className="col "><img src={Mandiri} alt=""  className='width-100-percent'/></a>
+              <a href="" className="col  mt-4"><img src={Gopay} alt=""  className='width-100-percent'/></a>
+              <a href="" className="col  mt-4"><img src={Shopeepay} alt=""  className='width-100-percent'/></a>
+              <a href="" className="col  mt-4"><img src={Dana} alt=""  className='width-100-percent'/></a>
             </div>
             <div>
               <h1 className="fs-3 fw-bolder color-brown">TOTAL DONASI TERKUMPUL:</h1>

@@ -38,7 +38,7 @@ function Artikel() {
                       <small className="text-secondary">Jakarta, 25 September 2023</small>
                     </div>
 
-                    <a href="#" className="d-flex gap-2 text-decoration-none text-black width-max-content">
+                    <a href="/artikel/Pengertian-dan-Persiapan-Menghadapi-Banjir" className="d-flex gap-2 text-decoration-none text-black width-max-content">
                       Baca Selengkapnya
                       <img src={Arrow_icon} alt="" className="width-max-content" />
                     </a>
