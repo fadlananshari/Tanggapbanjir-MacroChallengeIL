@@ -2,8 +2,8 @@ import React from 'react';
 import Article_img from '../assets/article-img.png';
 import Arrow_icon from '../assets/arrow-icon.png';
 import Comment_icon from '../assets/comment-icon.png';
-import Love_icon from '../assets/Love-icon.png';
-import Eye_icon from '../assets/Eye-icon.png';
+import Love_icon from '../assets/love-icon.png';
+import Eye_icon from '../assets/eye-icon.png';
 
 function Article() {
   return (
